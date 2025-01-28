@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 27 Jan 2025 11:16:54 at https://www.helltruth.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.helltruth.com/ -O1 "C:\Meus Sites\clone_hell_truth" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:19:07	Error: 	"Not Found" (404) at link https://www.helltruth.com/Resources/images/arrow-right-white.png (from https://www.helltruth.com/DependencyHandler.axd/b3ac87637b5ba40896c9b2e1ccbb70ba/359/css)
+11:19:07	Error: 	"Not Found" (404) at link https://www.helltruth.com/POST (from https://www.helltruth.com/WebResource.axd?d=pynGkmcFUV3WbrvGqkI6RYfrv71na3b8whH-GbfwX-tW3ySziNbkeRuNR-s1&t=638602545342142403)
+11:19:07	Error: 	"Not Found" (404) at link https://www.helltruth.com/Firefox/ (from https://www.helltruth.com/ScriptResource.axd?d=NJmAwtEo3Ir4XIudo_yWxV9-QM2p-9NLLiFLziz_CV_7FgwEtB5ZXlWyYxZVC7hGPVr5miXxfwyDRITGmFqSiZZGAm12gODZyhlxCry3B031Osj3U5c3rWoO8c7nFewXeZHkPw2&t=ffffffffc820c398)
+11:19:07	Error: 	"Not Found" (404) at link https://www.helltruth.com/AppleWebKit/ (from https://www.helltruth.com/ScriptResource.axd?d=NJmAwtEo3Ir4XIudo_yWxV9-QM2p-9NLLiFLziz_CV_7FgwEtB5ZXlWyYxZVC7hGPVr5miXxfwyDRITGmFqSiZZGAm12gODZyhlxCry3B031Osj3U5c3rWoO8c7nFewXeZHkPw2&t=ffffffffc820c398)
+11:19:07	Error: 	"Not Found" (404) at link https://www.helltruth.com/Opera/ (from https://www.helltruth.com/ScriptResource.axd?d=NJmAwtEo3Ir4XIudo_yWxV9-QM2p-9NLLiFLziz_CV_7FgwEtB5ZXlWyYxZVC7hGPVr5miXxfwyDRITGmFqSiZZGAm12gODZyhlxCry3B031Osj3U5c3rWoO8c7nFewXeZHkPw2&t=ffffffffc820c398)
+11:19:07	Error: 	"Not Found" (404) at link https://www.helltruth.com/MicrosoftAjaxWebForms.js (from https://www.helltruth.com/ScriptResource.axd?d=dwY9oWetJoJ2F1U12ZmKWTMAQ9w2xhS63x6iN1Q00iP_mpPZpbDLwzIYe8XiuRR6VkuMOATDkUYPlhByoRDLPmR1Txtmkth-T7hP4R1TpWnh8Os2JhupVmSrPyi81xMOB_MbpcOPd7ettn8w0&t=ffffffffc820c398)
+11:19:07	Error: 	"Not Found" (404) at link https://www.helltruth.com/MicrosoftAjaxSerialization.js (from https://www.helltruth.com/ScriptResource.axd?d=dwY9oWetJoJ2F1U12ZmKWTMAQ9w2xhS63x6iN1Q00iP_mpPZpbDLwzIYe8XiuRR6VkuMOATDkUYPlhByoRDLPmR1Txtmkth-T7hP4R1TpWnh8Os2JhupVmSrPyi81xMOB_MbpcOPd7ettn8w0&t=ffffffffc820c398)
+11:19:07	Error: 	"Not Found" (404) at link https://www.helltruth.com/MicrosoftAjaxNetwork.js (from https://www.helltruth.com/ScriptResource.axd?d=dwY9oWetJoJ2F1U12ZmKWTMAQ9w2xhS63x6iN1Q00iP_mpPZpbDLwzIYe8XiuRR6VkuMOATDkUYPlhByoRDLPmR1Txtmkth-T7hP4R1TpWnh8Os2JhupVmSrPyi81xMOB_MbpcOPd7ettn8w0&t=ffffffffc820c398)
+11:19:07	Error: 	"Not Found" (404) at link https://www.helltruth.com/Print Page (from https://www.helltruth.com/DependencyHandler.axd/ce4437c9d75127eb4bd95445518924a9/359/js)
+11:19:57	Error: 	"Bad Request" (400) at link https://cse.google.com/cse.js?cx= (from https://www.helltruth.com/home/site-search)
+11:19:59	Error: 	"Not Found" (404) at link https://www.helltruth.com/applewebkit/ (from https://www.helltruth.com/DependencyHandler.axd/a0565eabd487daab6ab4b183ec42ff0a/359/js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 7 seconds : 389 links scanned, 377 files written (15581380 bytes overall) [10911877 bytes received at 58352 bytes/sec], 7491513 bytes transferred using HTTP compression in 154 files, ratio 31%, 4.1 requests per connection
+(11 errors, 0 warnings, 0 messages)

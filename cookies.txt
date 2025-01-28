@@ -1,0 +1,41 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.helltruth.com	TRUE	/	FALSE	1999999999	.ASPXANONYMOUS	WvEw1F1jmnQVtoYZDz87M_BeUSQsO_Ib2eS--fF1FedePUxmu8e8Jbtp4Qos6ExSnxXYTHYHjARoi9h4d8dqNrdwlac9bIIlqh9kUmUeDp5Cxv4q0
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1677	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1870	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1871	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1872	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1874	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1873	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1570	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1869	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1581	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1573	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1575	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1571	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1850	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1847	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1856	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1849	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1854	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1855	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1857	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1852	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1851	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1844	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1848	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1846	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1845	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1853	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1875	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1574	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1576	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1572	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1582	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1579	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1577	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1583	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	Article1578	1
+www.helltruth.com	TRUE	/	FALSE	1999999999	dnn_IsMobile	False
+www.helltruth.com	TRUE	/	FALSE	1999999999	language	en-US
+
